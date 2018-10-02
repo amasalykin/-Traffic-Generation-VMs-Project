@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Copyright (c) 2018 Conestoga College,
-# Name: Andrey Masalykin 
+# Name:  
 # Date: August 5, 2018
 #
 # This script will install standard packages for the template and set the aliases for the network connections.
