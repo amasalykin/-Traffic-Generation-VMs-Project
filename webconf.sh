@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Copyright (c) 2018 Conestoga College,
-# Name: Shoaib Qureshi
+# Name: 
 # Date: August 5, 2018
 #
 # This script will allow the user to configure the Apache web service
