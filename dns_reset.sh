@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Copyright (c) 2018 Conestoga College,
-# Name: Andrey Masalykin 
+# Name:  
 # Date: August 5, 2018
 #
 # This script will guide you through disabling BIND and all support services on the host and removing the files.
