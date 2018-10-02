@@ -1,7 +1,7 @@
 #!/bin/bash
 #
 # Copyright (c) 2018 Conestoga College,
-# Name: Elliott Galpin
+# Name: 
 # Date: August 5, 2018
 #
 # This script will bootstrap these OSes:
